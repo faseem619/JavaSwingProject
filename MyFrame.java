@@ -1,6 +1,6 @@
-import javax.swing.JFrame;
-import javax.swing.ImageIcon;
+import javax.swing.*;
 import java.awt.Color;
+import java.awt.event.*;
 
 public class MyFrame extends JFrame{
 	MyFrame(){
